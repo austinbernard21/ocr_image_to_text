@@ -1,0 +1,7 @@
+opencv-python
+click
+pytesseract
+pdf2image
+textblob
+numpy
+pillow
